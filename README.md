@@ -30,10 +30,11 @@
 + [MIT8.01x Physics1](https://www.youtube.com/watch?v=wWnfJ0-xXRE&list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e)
 + [清华大学普通物理](https://www.bilibili.com/video/av1085694/)
 
-- [基础解剖学](#additional-books)
-- [肌动学]
-- [运动心理学]
-- [康复医学基础]
+### 基础解剖学
+### 肌动学
+### 运动心理学
+### 康复医学
+
 
 ---
 

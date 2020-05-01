@@ -25,7 +25,7 @@
 ## 其他知识储备
 
 - [大一物理](#additional-books)
-基本的物理学知识，尤其是力学知识对提高太极拳水平大有帮助。
+	基本的物理学知识，尤其是力学知识对提高太极拳水平大有帮助。其中速度、加速度、向心力、离心力、旋转运动、牛顿三定律、质能转换公式、摩擦力、弹力需要重点掌握。
 	+ [MIT8.01x Physics1](https://www.youtube.com/watch?v=wWnfJ0-xXRE&list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e)
 	+ [清华大学普通物理](https://www.bilibili.com/video/av1085694/)
 - [基础解剖学](#additional-books)

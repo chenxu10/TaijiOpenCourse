@@ -53,7 +53,7 @@ If you want to be a reliability engineer or operations engineer, study more from
 ## Table of Contents
 
 - [What is it?](#what-is-it)
-- [Book List](#Book List)
+- [Book List](#Book-List)
 
 ## Book List
 

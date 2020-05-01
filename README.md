@@ -42,7 +42,7 @@
 ### 名家著述
 
 - [ ] [洪均生:陈氏太极拳实用拳法]()
-- [ ] [郑曼青文集](https://zhuanlan.zhihu.com/p/70289608)
+- [ ] [郑曼青:郑曼青文集](https://zhuanlan.zhihu.com/p/70289608)
 
 
 

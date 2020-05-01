@@ -7,17 +7,19 @@
 
 ---
 
-## Table of Contents
+##目录
 
 - [这是什么？](#what-is-it)
 - [书籍资料](#book-list)
+- [其他知识储备](#additioanl)
 
 
----------------- Everything below this point is optional ----------------
+----------------相关知识学习 ----------------
 
 ## 其他知识储备
 
-- [Additional Books](#additional-books)
+- [大一物理](#additional-books)
+  + 基本的物理学知识，尤其是力学知识对提高太极拳水平大有帮助。
 
 ---
 

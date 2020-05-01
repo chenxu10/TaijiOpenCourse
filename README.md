@@ -15,41 +15,34 @@
 
 ---------------- Everything below this point is optional ----------------
 
-## Additional Resources
+## 其他知识储备
 
 - [Additional Books](#additional-books)
 
 ---
 
-## Why use it?
+## 为什么会有这个项目
 
 
-## How to use it
-
-
-
+## 如何使用这个项目
 
 
 
 
-## Book List
+
+
+
+## 书籍资料
 
 有关太极拳的文字资料
 
-### Classical Literature
+### 经典文献
 - [ ] [陈氏太极拳实用拳法]()
 
-### Interview Prep
+### 名家著述
 
 - [ ] [陈氏太极拳实用拳法]()
 - [ ] [郑曼青文集](https://zhuanlan.zhihu.com/p/70289608)
 
 
 
-### If you have tons of extra time:
-
-- [ ] [Elements of Programming Interviews (C++ version)](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
-- [ ] [Elements of Programming Interviews in Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/)
-- [ ] Elements of Programming Interviews (Java version)
-    - [book](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517435803/)
-    - [Companion Project - Method Stub and Test Cases for Every Problem in the Book](https://github.com/gardncl/elements-of-programming-interviews)

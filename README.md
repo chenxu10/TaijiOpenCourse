@@ -53,8 +53,8 @@ If you want to be a reliability engineer or operations engineer, study more from
 ## Table of Contents
 
 - [What is it?](#what-is-it)
-- [Book List](#what-is-it)
-
+- [Book List](##Book List)
+---------------- Everything below this point is optional ----------------
 ## Book List
 
 + 《陈氏太极拳实用拳法》 洪均生著

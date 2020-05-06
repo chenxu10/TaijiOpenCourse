@@ -63,8 +63,8 @@
 
 ### 让气流动
 只有气能沉下来你才有东西用。左右前后压缩，上下只能伸展，脊柱延长，气到五点，头，指尖，脚尖。腹腔能够改变形状，改变气压，呼吸的能力就是改变腹腔形状的能力，但是不能用到脖子附近的肌肉去硬改变。
-- [  ][Mobalize the chi](https://www.youtube.com/watch?v=1uK5uETFIy0)
-- [  ][Mobalize the chi](https://www.youtube.com/watch?v=fqr21SJlitg)仔细观察4:03女士的错误
+- [ ] [Mobalize the chi](https://www.youtube.com/watch?v=1uK5uETFIy0)
+- [ ] [Mobalize the chi——容易犯的错误：](https://www.youtube.com/watch?v=fqr21SJlitg)仔细观察4:03女士的错误
 
 ### 松胯
   + 胯是人体最大的关节，要是这个关节不松不灵活，所有关节都不灵活

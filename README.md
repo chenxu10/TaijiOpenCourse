@@ -121,6 +121,7 @@
 ### 名家著述
 
 - [ ] [洪均生:陈氏太极拳实用拳法]()
+- [ ] [陈中华老师规矩列表](http://www.shiyongquanfa.cn/archives/3469)
 - [ ] [郑曼青:郑曼青文集](https://zhuanlan.zhihu.com/p/70289608)
 
 ## 正念冥想

@@ -14,6 +14,7 @@
 - [身体结构要求](#身体结构要求)
 - [太极拳基本术语](#太极拳基本术语)
 - [太极核心技术](#太极核心技术)
+- [演练视频](演练视频)
 - [功法](#功法)
 - [用法](#用法)
 - [运动模式控制](#运动模式控制)
@@ -94,6 +95,9 @@
 - [ ] [脚必须比手快](https://www.youtube.com/watch?v=1BsE8EvxgsI)
 + 手必须跟随脚，否则就是上重下轻，是浮
 
+## 演练视频
+- [ ] [陈中华Iowa一路](https://www.youtube.com/watch?v=gQwk7DiO5E8&list=PLRLk89yP6oHQH9MQg0pXxA_WNCCWRzXxn&index=11)
+- [ ] [陈中华二路](https://www.youtube.com/watch?v=QYk4VUz23KE&list=PLRLk89yP6oHQH9MQg0pXxA_WNCCWRzXxn&index=8)
 ## 用法
 + 陈中华大青山前十三式(https://www.youtube.com/watch?v=75XQcOlEOAU)
 

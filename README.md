@@ -96,7 +96,12 @@
 - [ ] [脚必须比手快](https://www.youtube.com/watch?v=1BsE8EvxgsI)
 + 手必须跟随脚，否则就是上重下轻，是浮
 
+### 梢节领劲，两头蜷曲
+
++ 手要做移动从A点到B点，大拇指或者小拇指带领，不是整个手动，其他四个手指要Reluctant，有点懒惰被带领。并且做动作前自己要有意识明确的意识你要去的B地是哪里。
+
 ## 演练视频
+
 - [ ] [陈中华Iowa一路](https://www.youtube.com/watch?v=gQwk7DiO5E8&list=PLRLk89yP6oHQH9MQg0pXxA_WNCCWRzXxn&index=11)
 - [ ] [陈中华二路](https://www.youtube.com/watch?v=QYk4VUz23KE&list=PLRLk89yP6oHQH9MQg0pXxA_WNCCWRzXxn&index=8)
 ## 用法

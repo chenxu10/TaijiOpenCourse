@@ -98,7 +98,9 @@
 
 ### 梢节领劲，两头蜷曲
 
-+ 手要做移动从A点到B点，大拇指或者小拇指带领，不是整个手动，其他四个手指要Reluctant，有点懒惰被带领。并且做动作前自己要有意识明确的意识你要去的B地是哪里。
++ 手要做移动从A点到B点，大拇指或者小拇指带领，不是整个手动，其他四个手指要Reluctant，有点懒惰被带领。并且做动作前自己要有意识明确的意识你要去的B地是哪里
+
+  参考视频：<https://www.youtube.com/watch?v=o5sCG2vSSX8&list=PLY8ILYkecJdvhaEkLZ7RaZ-rk8IBrKy01&index=1> 
 
 ## 演练视频
 

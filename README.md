@@ -163,6 +163,9 @@
 - [ ] [洪均生:陈氏太极拳实用拳法]()
 - [ ] [陈中华老师规矩列表](http://www.shiyongquanfa.cn/archives/3469)
 - [ ] [郑曼青:郑曼青文集](https://zhuanlan.zhihu.com/p/70289608)
+- [ ] [郑子太极十三篇](<https://www.douban.com/group/topic/40307134/> )
+- [ ] [Bruce Frantzis](https://www.youtube.com/watch?v=0UNqfeC9fjo)
+- [ ] Yang, Jwing-Ming 
 
 ## 个人身心体悟
 + 研究正视自己身上存在的问题才能摆脱问题。你自己的问题

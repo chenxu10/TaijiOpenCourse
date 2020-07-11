@@ -172,6 +172,8 @@
 
 - [ ] [Adam Mizner-002 Taiji as a Path](<https://www.youtube.com/watch?v=S1y_aeCYj9c>)
   + Build the chi/伤气最多的不是性或者而是不良情绪、应激反应、执迷、被欲望控制
+  + 练习的时候意和气要Bond together，想夫妻一样结婚。意识要到你练的地方，Bond Together以后才能用意不用力
+  + Don't forget about you body and minds
 
 ## 个人身心体悟
 

@@ -29,6 +29,17 @@
 
 ----------------相关知识学习 ----------------
 
+## 太极拳的第一性原理
+
+太极拳的第一性原理是旋转。太极拳缠法也。
+
+[物理学Circular Motion这一章必须理解实践](https://www.youtube.com/watch?v=mWj1ZEQTI8I&list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e&index=5)。
+
+Physics Inspired Taiji
+
++ 公转突然停下，centripetal acceleration没有，转动的物体会按停下来那一点切线的方向继续飞出去
++ 练拳的时候有圆心（丹田）、半径（拉向圆心的力——向心力，肢体）切线和向量意识（速度+方向）
+
 ## 其他知识储备
 
 ### 大一物理
@@ -176,7 +187,8 @@
 - [ ] [郑曼青:郑曼青文集](https://zhuanlan.zhihu.com/p/70289608)
 - [ ] [郑子太极十三篇](<https://www.douban.com/group/topic/40307134/> )
 - [ ] [Bruce Frantzis](https://www.youtube.com/watch?v=0UNqfeC9fjo)
-- [ ] Yang, Jwing-Ming 
+- [ ] Yang, Jwing-Ming
+- [ ] [形意拳王祺](http://www.360doc.com/content/20/0831/10/141793_933216329.shtml)
 
 ## 演讲
 
@@ -218,6 +230,7 @@
 + 脊椎是一个骨头，额头眼睛的动要独立与颈部肌肉、肩胸肌肉，直接连接到胯部。手的动肩胛骨要转动，独立于脊椎。
 + 修道的原理是能量被逼在内部不散开。眼球在内部、大腿内侧、不在脚的外侧。
   - 不出格，想像肩胯之间有个Bounding Box把自己框住。分清前后。感受到后面的力量移动进入Bounding Box的边缘。但是千万不能晃出自己的格子线。一个是后面的身体绝大多数的力量都被调动了。一个是被敌人牵着Chase的状态。只有肩肘手东，后面是被动地跟着。
++ 受MIT8.01启发——让自己旋转中突然停下，力的方向是走停下那一刻矢量的方向走。
 ## 正念冥想
 
 - [ ] [2020年初自己的感受](http://josephxushen.com/blog/2020/6/10)

@@ -188,6 +188,7 @@ Physics Inspired Taiji
 - [ ] [陈中华老师规矩列表](http://www.shiyongquanfa.cn/archives/3469)
 - [ ] [郑曼青:郑曼青文集](https://zhuanlan.zhihu.com/p/70289608)
 - [ ] [郑子太极十三篇](<https://www.douban.com/group/topic/40307134/> )
+- [ ] [Robert Chuckrow](https://www.chuckrow.org/AboutRC.html)
 - [ ] [Bruce Frantzis](https://www.youtube.com/watch?v=0UNqfeC9fjo)
 - [ ] Yang, Jwing-Ming
 - [ ] [形意拳王祺](http://www.360doc.com/content/20/0831/10/141793_933216329.shtml)
@@ -208,6 +209,8 @@ Physics Inspired Taiji
   + 脚的动作如果没有到手就是断劲了
   + 想像自己前面有个镜子像小孩一样趴着
   + 做事情的时候一定要有一种观的意识，这样才能觉知自己哪里有问题，观呼吸，观编程
++ 收缩的发力VS伸长的发力。日常生活都是用收缩的发力，太极要用伸长发力。比如吸气可以收缩鼻子通道感觉吸气，也可以伸展鼻子通道让更多气进入。比如握拳可以可以小臂腹侧肌肉收缩握拳，也可以意识在小臂背侧肌肉伸长握拳。都是握拳但是一个更注重阴面肌肉。
++ 舌头的位置，舌头要能分阴阳舌尖往下卷，舌根就能往上顶起头冠
 + 坐姿
   + 坐骨会贴着椅子像球一样滚动，带动骨盆，骨盆让腰椎有内凹的生理曲度
   + 坐骨的前面会有一个平面，坐在这个平面上

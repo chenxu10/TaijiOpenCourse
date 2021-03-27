@@ -202,6 +202,7 @@ Physics Inspired Taiji
 
 ## 个人身心体悟
 
++ [太极拳练法的五种道路](paths.md)
 + [十月哥伦布胃痛悟道](stomachachedunwu.md)
 + 观呼吸和坐姿、站姿、走姿、卧姿永远是最基本反复练习的基本功，永远与你同在
 + 提升动作前，先清楚了知我正在坐、我正在站、我正在蹲、我正在走
@@ -241,8 +242,9 @@ Physics Inspired Taiji
 
 - [ ] [2020年初自己的感受](http://josephxushen.com/blog/2020/6/10)
 - [ ] [2020夏天打七用功实录](http://josephxushen.com/blog/daqi)
-
-
+- [ ] [性欲旺盛时防止漏单](https://www.douban.com/group/topic/74383899/)
+- [ ] [大念住经](https://web.archive.org/web/20160305234346/http://www.buddhist-canon.com/PLAIN/danian.htm)
+- [ ] [禅法秘要](https://zh.m.wikisource.org/wiki/%E7%A6%AA%E7%A7%98%E8%A6%81%E6%B3%95%E7%B6%93)
 
 
 

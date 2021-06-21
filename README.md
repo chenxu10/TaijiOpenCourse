@@ -178,6 +178,9 @@ Physics Inspired Taiji
 有关太极拳的文字资料
 
 ### 经典文献
+- [ ] [内功四经](https://gushu.net.cn/guji/%E9%81%93%E8%97%8F/%E8%97%8F%E5%A4%96/%E5%86%85%E5%8A%9F%E5%9B%9B%E7%BB%8F.html)
+- [ ] [曹继武十法摘要](https://zhuanlan.zhihu.com/p/342929654)
+- [ ] [岳武穆九要论](https://www.tianyabooks.com/cn/xhf05/101716.html)
 - [ ] [王宗岳:太极拳论](https://zh.wikipedia.org/wiki/%E5%A4%AA%E6%A5%B5%E6%8B%B3%E8%AB%96)
 - [ ] [王宗岳:打手歌]()
 - [ ] [王宗岳:十三式歌]()

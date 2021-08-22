@@ -194,6 +194,7 @@ Physics Inspired Taiji
 - [ ] [Bruce Frantzis](https://www.youtube.com/watch?v=0UNqfeC9fjo)
 - [ ] Yang, Jwing-Ming
 - [ ] [形意拳王祺](http://www.360doc.com/content/20/0831/10/141793_933216329.shtml)
+- [ ] [冯钟云谈中国武术与四个力](fengzhongyun.md)
 
 ## 演讲
 

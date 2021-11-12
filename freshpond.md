@@ -64,3 +64,19 @@ Mind and intention always one step ahead of action and body.
 
 胯转，前面的手肩肘不动，而且手尽可能放低，大约齐胯的位置。
 
+## 2021.11.12
+
++ 松功第五式的应用
+
+  - 骶骨往前往下，但是上半身一点都不往后仰，需要你的腹部和腰部完全拉伸开来
+  - 肩靠：前胯松，Center往后往下导致前膝盖往前，能量集中在肩部
+
++ Pull your oponent into your structure but don't reach out
+
++ 肘先起来，但是整个前臂不起来
+
++ Don't brace and move your center away from oponent's energy
+
++ 
+
+  

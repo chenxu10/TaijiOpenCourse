@@ -77,6 +77,9 @@ Mind and intention always one step ahead of action and body.
 
 + Don't brace and move your center away from oponent's energy
 
-+ 
++ 肘底捶用法:
 
+  + Pull in, finger point the the weak point next to the throat
+  + 背后被擒拿，腰转出来，被擒拿手转为攻击手
+  
   

@@ -82,4 +82,17 @@ Mind and intention always one step ahead of action and body.
   + Pull in, finger point the the weak point next to the throat
   + 背后被擒拿，腰转出来，被擒拿手转为攻击手
   
+
+## 2021.11.17
+
++ 松功第三式
+
+重心始终在中间，肘从中间被肩拉上去再下来
+
++ 手腕处放松，手指的运动由肘部控制
++ 脚腕脚跟放松，尾骨下沉，感受足部的压力
++ 斜飞用法
+  + 腰部发力，手通过肩胛骨从后背传到脚底
+  + 防守，别人攻击你的肩部，前手虎口卡脖子
++ 手不主动动，肘关节不主动屈伸。重心前后或上下移动，导致肘和膝被动屈伸。手脚在原地不动积累张力。
   

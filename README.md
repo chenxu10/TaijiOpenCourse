@@ -16,8 +16,8 @@
 - [太极核心技术](#太极核心技术)
 - [个人身心体悟](#个人身心体悟)
 - [演练视频](演练视频)
-- [内修、导引与功法](#内修、导引与功法)
-- [外用、技击与防身](#外用、技击与防身)
+- [内修与功法](#内修与功法)
+- [外用与防身](#外用与防身)
 - [运动模式控制](#运动模式控制)
 - [情绪调节](#情绪调节)
 - [训练方法](#训练方法)
@@ -152,7 +152,7 @@ Physics Inspired Taiji
 - [ ] [陈中华Iowa一路](https://www.youtube.com/watch?v=gQwk7DiO5E8&list=PLRLk89yP6oHQH9MQg0pXxA_WNCCWRzXxn&index=11)
 - [ ] [陈中华二路](https://www.youtube.com/watch?v=QYk4VUz23KE&list=PLRLk89yP6oHQH9MQg0pXxA_WNCCWRzXxn&index=8)
 
-## 内修、导引与功法
+## 内修与功法
 - [ ] [何静寒八拇掌导引](https://www.youtube.com/watch?v=lYzxVI8Jxx4)
 - [ ] [八段锦导引](https://www.youtube.com/watch?v=qbXJDyiidfM)
 - [ ] [南怀瑾坐姿八段锦](https://www.youtube.com/watch?v=XpiDcinl7dE)
@@ -161,7 +161,7 @@ Physics Inspired Taiji
   + Kate拉丁舞：脚跟完全离地直到只有大脚趾尖点地，骨盆侧面最上面起来一点，离肋骨下方近一点。要靠大腿内侧完成（不要用到上背和颈椎，利用大腿内侧）
   + 八卦何静寒抽胯
 
-## 外用、技击与防身
+## 外用与防身
 
 + 陈中华大青山前十三式(https://www.youtube.com/watch?v=75XQcOlEOAU)
 

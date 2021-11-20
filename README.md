@@ -153,8 +153,9 @@ Physics Inspired Taiji
 - [ ] [陈中华二路](https://www.youtube.com/watch?v=QYk4VUz23KE&list=PLRLk89yP6oHQH9MQg0pXxA_WNCCWRzXxn&index=8)
 
 ## 内修、导引与功法
-- [ ] 何静寒八拇掌导引(https://www.youtube.com/watch?v=lYzxVI8Jxx4)
-- [ ] 八段锦导引(https://www.youtube.com/watch?v=qbXJDyiidfM)
+- [ ] [何静寒八拇掌导引](https://www.youtube.com/watch?v=lYzxVI8Jxx4)
+- [ ] [八段锦导引](https://www.youtube.com/watch?v=qbXJDyiidfM)
+- [ ] [南怀瑾坐姿八段锦](https://www.youtube.com/watch?v=XpiDcinl7dE)
 - [ ] 抽（缩）胯：如何使用大腿内测肌肉？
   + 高科：<https://mp.weixin.qq.com/s?__biz=MjM5ODU4MDA0Mw==&mid=222193087&idx=1&sn=9947fef14cb027e114611e62b4e6500f&scene=21> （帮助你找到感觉）
   + Kate拉丁舞：脚跟完全离地直到只有大脚趾尖点地，骨盆侧面最上面起来一点，离肋骨下方近一点。要靠大腿内侧完成（不要用到上背和颈椎，利用大腿内侧）

@@ -95,4 +95,9 @@ Mind and intention always one step ahead of action and body.
   + 腰部发力，手通过肩胛骨从后背传到脚底
   + 防守，别人攻击你的肩部，前手虎口卡脖子
 + 手不主动动，肘关节不主动屈伸。重心前后或上下移动，导致肘和膝被动屈伸。手脚在原地不动积累张力。
-  
+
+## 2021.11.29
+
++ Center away move from the force, but hand stay connect with your opponent, this requires a stretch from center to hand to achieve this.
++ Use your elbow as hand to control your opponent, not your hand.
++ Imagine sacrum down not to the ground, but under the ground then forward. Force you to use 裆. 

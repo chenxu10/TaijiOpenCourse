@@ -101,3 +101,9 @@ Mind and intention always one step ahead of action and body.
 + Center away move from the force, but hand stay connect with your opponent, this requires a stretch from center to hand to achieve this.
 + Use your elbow as hand to control your opponent, not your hand.
 + Imagine sacrum down not to the ground, but under the ground then forward. Force you to use 裆. 
+
+## 2021.12.17
+
++ 步子的间距要有横向与纵向意识，你总是倾向于横向太小而纵向太大。这样胯打不开。横向是指两脚跟与肩同宽。纵向是指步子前后的距离。
++ 分开肩胛骨与肩。
++ 蹲下去的时候，不要主动地弯膝盖，膝盖是微微一弯，让骶骨往下，整条脊椎一节节往下，保持头顶住。头和脊椎最上节分开，下巴收拢不是被推进来，而不是头与脊椎最上面一节分离，被拉进来。

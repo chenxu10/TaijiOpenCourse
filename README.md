@@ -153,6 +153,8 @@ Physics Inspired Taiji
 - [ ] [陈中华二路](https://www.youtube.com/watch?v=QYk4VUz23KE&list=PLRLk89yP6oHQH9MQg0pXxA_WNCCWRzXxn&index=8)
 
 ## 内修与功法
+- [ ] 练功在生活中(行走坐卧)
+  + [何静寒走路功](https://www.facebook.com/%E6%8A%BD%E8%83%AF%E8%B5%B0%E8%B7%AF%E5%8A%9F-155427255033525/)
 - [ ] [何静寒八拇掌导引](https://www.youtube.com/watch?v=lYzxVI8Jxx4)
 - [ ] [八段锦导引](https://www.youtube.com/watch?v=qbXJDyiidfM)
 - [ ] [南怀瑾坐姿八段锦](https://www.youtube.com/watch?v=XpiDcinl7dE)
@@ -192,6 +194,15 @@ Physics Inspired Taiji
 - [ ] [王宗岳:打手歌]()
 - [ ] [王宗岳:十三式歌]()
 - [ ] [张三丰:太极拳经](https://www.douban.com/note/242509601/)
+
+### 师傅
+- [] [袁向明]()
+- [] [Jeff](jeff.md)
+- [] [Mike]()
+- [] [Demitra]()
+- [] [Kate]()
+
+
 ### 名家著述
 
 - [ ] [洪均生:陈氏太极拳实用拳法]()

@@ -225,6 +225,7 @@ Physics Inspired Taiji
 
 ## 个人身心体悟
 
++ [太极拳练习的九个阶段](stage.md)
 + [太极拳练法的五种道路](paths.md)
 + [十月哥伦布胃痛悟道](stomachachedunwu.md)
 + [Fresh Pond Taiji Practice Journal](freshpond.md)

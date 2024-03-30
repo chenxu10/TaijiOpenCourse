@@ -231,6 +231,7 @@ Physics Inspired Taiji
 + [十月哥伦布胃痛悟道](stomachachedunwu.md)
 + [Fresh Pond Taiji Practice Journal](freshpond.md)
 + 虚领顶劲的操作性定义：从反面思考(上交叉综合症与胸锁乳突肌过分紧张导致的头前伸取反)
++ [20240320通关展窍体悟](zhanqiao.md)
 
 ![](/home/xushen/TaijiOpenCourse/Pictures/xiongsu.jpg)
 

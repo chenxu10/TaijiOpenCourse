@@ -302,6 +302,7 @@ Physics Inspired Taiji
 - [ ] [形意拳王祺](http://www.360doc.com/content/20/0831/10/141793_933216329.shtml)
 - [ ] [冯钟云谈中国武术与四个力](fengzhongyun.md)
 - [ ] 杨健候——汪永全——朱春煊
+- [ ] 马岳梁(1901-1998)
 
 ## 演讲
 

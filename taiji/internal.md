@@ -1,0 +1,4 @@
+- Abdominal pressure is the main source of power.
+- All the movements of tai chi chuan are activated by pressure changes in the lower abdomen(Sacrum).
+- The arm never move by themselves without the abdominal pressure changes.
+- Arms never move alone or independently if they do the movements are not Taichi Chuan.

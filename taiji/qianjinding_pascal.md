@@ -1,0 +1,10 @@
+## Use of contractive strength. 
+
+When contractive muscular strength is employed, nerve impulses from the brain and spinal cord cause muscle units to contract. The contracting muscles pull bones by means of their associated tendons, thereby producing external force and movement. When external conditions require a change in the contraction produced, that change requires a succession of events to occur: 
++ Afferent nerve impulses arising from sensory stimuli (sense data) are transmitted to the central nervous system and brain for analysis. 
++ The analytical part of the brain then perceives the need to regulate external force and movement in accordance to what is perceived.+ Based on the perceived need, the analytical mind then generates a course of action. 
++ Efferent (motor) neural impulses are then sent to muscles, causing force and movement for the required change. The time taken for this succession of neurological events can be long compared to the time in which external conditions can change, especially in a self-protection situation.
+
+## Use of expansive strength. 
+When expansive muscular strength is used, all contractive strength is released, allowing the body to liquefy. When strength is required while in this liquefied state, nerve impulses that normally are utilized to cause muscles to contract, instead, cause the water in the muscle cells to expand and, thereby, become pressurized. This pressure pervades the whole body. A principle in physics, called Pascal’s principle, states: “Any change in the pressure at any point in a confined liquid is accompanied by the same change in pressure at every other point.” During the exertion of external force, if any increase or decrease is required by external conditions, there is no need for any neurological activity or analytical processing; because of Pascal’s principle, as soon as there is a sudden increase or decrease in external force, the hydraulic pressure within the body automatically adjusts, virtually instantaneously.
+
